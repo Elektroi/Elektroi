@@ -1,16 +1,16 @@
-### Hi there 👋
+### Kaixo, I'm [Nahiko!](https://github.com/Elektroi/Elektroi) 👋
 
-<!--
-**Elektroi/Elektroi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This is the place where I try things, and most of the time break them :rofl:
 
-Here are some ideas to get you started:
+##### NOW
+- 🏠 I’m currently living at San Sebastian, Basque Country.
+- 👨‍💻 I’m currently working as a Senior Software Engineer.
+  
+##### BIO
+- 🔭 I’m currently working on create a co-living project like [Abaraska](https://abaraskaetxea.eus).
+- 🌱 I’m currently learnig Kubernetes
+- A ☕️ and we can debate about everything.
+- ⚙ ️I use daily: .java, .vue, .py...
+- 📫 Reach me: [twitter.com/nahikovic](https://twitter.com/nahikovic)
+- ⚡️ Fun fact: #FreeBritney 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
